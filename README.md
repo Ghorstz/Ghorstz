@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Roger E. Bonayon Jr. 👋
 
-<!--
-**Ghorstz/Ghorstz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+  _   _   _   _   _   _   _  
+ / \ / \ / \ / \ / \ / \ / \ 
+( G | h | o | r | s | t | z )
+ \_/ \_/ \_/ \_/ \_/ \_/ \_/
+Computer Engineering Student | Software & Hardware Developer
 
-Here are some ideas to get you started:
+Driven by an action-oriented engineering mindset, I bridge software and hardware by building production-ready web applications, embedded micro-controller systems, and IoT solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Tools
+Languages & Web Development:
+
+Hardware & Embedded Engineering:
+
+🚀 Highlighted Projects
+📋 Attendance & Access Logging System
+
+A secure, role-based PHP/MySQL web application with PDO protection, automated schedule tracking, CSV reporting, and CSRF defense.
+
+🚁 Autonomous Drone Monitoring Station
+
+ArduPilot/INAV flight controller telemetry pipeline paired with a Raspberry Pi 4 companion computer and FastAPI web interface.
+
+🧹 Floating Trash Skimmer Boat
+
+A solar-powered catamaran skimmer built with ESP32, BTS7960 motor driver, LiFePO4 battery pack, and Bluetooth controller interface.
+
+📊 Dynamic GitHub Analytics
+📫 Connect With Me
+GitHub: github.com/Ghorstz
+
+LinkedIn: linkedin.com/in/roger-e-bonayon-jr-bb14a7281
